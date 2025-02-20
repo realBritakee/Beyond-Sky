@@ -56,6 +56,6 @@
 
 
 ### **Reporting Issues**
-- Report any issues you might find in our [Discord](https://dsc.gg/britakeestudios) under #bug-report, or on our [Issue Tracker](https://github.com/realBritakee/Alien-Earth/issues) !
+- Report any issues you might find in our [Discord](https://dsc.gg/britakeestudios) under #bug-report, or on our [Issue Tracker](https://github.com/realBritakee/Beyond-Sky/issues) !
 
 ---------------
