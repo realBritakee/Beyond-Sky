@@ -1,4 +1,4 @@
-<a href="https://legacy.curseforge.com/minecraft/modpacks/beyond-sky" rel="nofollow"><img src="https://github.com/user-attachments/assets/6c40863c-cd9f-4076-9d50-a77aeeffeb31">
+<a href="https://legacy.curseforge.com/minecraft/modpacks/beyond-sky" rel="nofollow"><img src="https://github.com/user-attachments/assets/086cf518-30cc-4b30-bfa6-0ef6432897cd">
 
 <br/>
 <p align="center"><a href="https://dsc.gg/britakeestudios" rel="nofollow"><img src="https://img.shields.io/discord/1337885670475300865?style=for-the-badge&logo=discord&logoColor=fff&label=Britakee Studios&labelColor=0c1323&color=f97044" width="186" height="28"></a><a href="https://curseforge.com/minecraft/modpacks/alien-earth" rel="nofollow"><img src="https://img.shields.io/curseforge/game-versions/856978?style=for-the-badge&logo=curseforge&label=Version&labelColor=0c1323&color=f97044" width="186" height="28"></a><a href="https://ko-fi.com/britakee" rel="nofollow"><img src="https://img.shields.io/static/v1?label=ko-fi&amp;message=Buy me a coffee&amp;color=f97044&amp;labelColor=0c1323&amp;style=for-the-badge&amp;logo=kofi&amp;logoColor=fff" alt="" width="186" height="28"></a>
