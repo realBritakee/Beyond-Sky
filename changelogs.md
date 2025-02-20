@@ -7,11 +7,27 @@
 
 
 ### **Added**
-- No mods added.
+- NukaCraft: Fallout mod (Serverside)
+- NukeTeam's Gun Lib (Coremod)
+- ChassisCore (Coremod)
+- FancyMenu (Clientside)
+- DrippyLoadingscreen (Clientside)
+- Konkrete (Coremod)
+- Melody (Coremod)
+- ItemZoom (Clientside)
+- Item Borders (Clientside)
+- Legendary Tooltips (Clientside)
+- Pick Up Notifier (Clientside)
+- Advancement Plaques (Clientside)
 
 
 ### **Removed**
 - No mods removed.
+
+
+### **Updated**
+- Ender IO
+- Supplementaries
 
 
 ### **Notable Changes**
