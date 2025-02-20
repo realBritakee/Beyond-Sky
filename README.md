@@ -5,39 +5,20 @@
 <br/>
 
 ## <p align="center">✨ Welcome to LV-426... or to Earth after all? ✨
-**<p align="center">Alien: Earth** is an extensive **Minecraft modpack** based on Ridley Scott's legendary *Alien* films. Immerse yourself in a dark sci-fi world full of dangers, custom structures and strange creatures. 
-
-> **Attention:** The modpack is still in an early development phase. Many of the planned contents listed here will only be added gradually.
+**<p align="center">an exciting new Minecraft experience that takes the classic Skyblock challenge to a whole new level! Get ready to explore an array of fresh content, mods, and adventures in the sky! If you're unfamiliar with certain mods, this pack includes quests to guide you through the new content. One of the last things to unlock is Applied Energistics 2. Perfect for fans of Create and exploration gameplay.
 
 ---
 
 ## <p align="center">👽 Features & planned content
 
-### ✨ **Aliens & Threats**
-The deadly Xenomorphs from the **[Gigeresque](https://www.curseforge.com/minecraft/mc-mods/gigeresque)** mod by **[cybercat5555](https://www.curseforge.com/members/cybercat5555/projects)** and **[AzureDoom](https://www.curseforge.com/members/azuredoomc/projects)** is the Core of this pack, and brings the iconic horror feeling to Minecraft.
+### ✨ **Over 800+ quests to guide you**
+Follow progression-based quests through 10 chapters focused on <span style="text-decoration:underline">Create</span>. Master assembly lines and automation techniques, unlocking new content with each chapter.
 
-### 🌌 **Explore the planets**
-Various planets inspired by the *Alien* movies (1979-1997) will be added in future updates:
-- **LV-426** (*Alien 1979, Aliens 1987*)
-- **Fury-161** (*Alien 3 1992*)
-- **USM Auriga** (*Alien - Resurrection 1997*)
-- ...and more!
+### 🏟️ **Advanced Automation**
+Boost your creativity with Ex Deorum, and integrate mods like <span style="text-decoration:underline">The Factory Must Grow</span> and other Create addons.
 
-### 🏟️ **Planned Structures & Secrets**
-- **Abandoned space stations** with dark secrets
-- **Derelict ship** (*Alien 1979, Aliens 1987*)
-- **Hadley's Hope** (*Aliens 1987*)
-- **Weyland-Yutani Mining facilitie** (*Alien 3 1992*)
-- ...and more!
-
-### 🎮 **Planned DLCs & expansions**
-The modpack will grow over time and expand with new content from the newer movies and series (2012-2025):
-- **“Prometheus” DLC**
-- **“Alien: Covenant” DLC** 
-- **“Alien: Romulus” DLC**
-- **“Alien: Earth” DLC**
-
-_whether content from the Predator & Alien vs. Predator franchise will be included or whether a separate modpack will be created for it, is still unclear at this point._
+### 🌌 **Explore the Planets**
+Travel to unknown world and explore them thanks to <span style="text-decoration:underline">Cosmic Horizon</span>, eventually you find some life but beware of the Xenomorph!
 
 ---
 
@@ -49,9 +30,6 @@ _whether content from the Predator & Alien vs. Predator franchise will be includ
 ---
 
 ## <p align="center">⚙ Planned features (to-do list)
-- [ ] **Structures and Buildings from the Movies**
-- [ ] **Custom items & blocks for Weyland-Yutani**
-- [ ] **MineColonies - Hadley's Hope Addon**
 - [ ] **New Biomes and Planets to explore**
 - [ ] **Sound Effects & Ambient**
 
@@ -59,11 +37,3 @@ _whether content from the Predator & Alien vs. Predator franchise will be includ
 
 ## <p align="center">🌟 Become part of the development!
 **<p align="center">As the project is still at an early stage, I welcome feedback, ideas and support. If you are interested in contributing or have suggestions, join our [Discord](https://dsc.gg/britakeestudios)!**
-
----
-
-<div align="center">
-
-### **Stay frosty, Marines.** 
-
-_"In space no one can hear you scream..."_
