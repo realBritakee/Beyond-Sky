@@ -4,8 +4,8 @@
 <p align="center"><a href="https://dsc.gg/britakeestudios" rel="nofollow"><img src="https://img.shields.io/discord/1337885670475300865?style=for-the-badge&logo=discord&logoColor=fff&label=Britakee Studios&labelColor=0c1323&color=f97044" width="186" height="28"></a><a href="https://curseforge.com/minecraft/modpacks/alien-earth" rel="nofollow"><img src="https://img.shields.io/curseforge/game-versions/856978?style=for-the-badge&logo=curseforge&label=Version&labelColor=0c1323&color=f97044" width="186" height="28"></a><a href="https://ko-fi.com/britakee" rel="nofollow"><img src="https://img.shields.io/static/v1?label=ko-fi&amp;message=Buy me a coffee&amp;color=f97044&amp;labelColor=0c1323&amp;style=for-the-badge&amp;logo=kofi&amp;logoColor=fff" alt="" width="186" height="28"></a>
 <br/>
 
-## <p align="center">✨ Welcome to LV-426... or to Earth after all? ✨
-**<p align="center">an exciting new Minecraft experience that takes the classic Skyblock challenge to a whole new level! Get ready to explore an array of fresh content, mods, and adventures in the sky! If you're unfamiliar with certain mods, this pack includes quests to guide you through the new content. One of the last things to unlock is Applied Energistics 2. Perfect for fans of Create and exploration gameplay.
+## <p align="center">✨ Welcome to Beyond Sky ✨
+<p align="center">an exciting new Minecraft experience that takes the classic Skyblock challenge to a whole new level! Get ready to explore an array of fresh content, mods, and adventures in the sky! If you're unfamiliar with certain mods, this pack includes quests to guide you through the new content. Thanks to Cosmic Horizon you are literally in the sky. Your mission will be to conquer Space and find a new Planet to life, but beware which planet you choose, or you will eventually face extinction, so beware of the Xenomorph!
 
 ---
 
